@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    background: rgb(1, 127, 149);
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    background: rgb(0, 76, 0);
+    padding: 10px 15px;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    margin-top: 50px;
+    cursor: pointer;
+}
